@@ -11,7 +11,7 @@ var version = '1.0.1';
 
 
 // token de login do bot, alterar apenas se vazar
-client.login('NzEzMjExNjYxNjExNDM0MDA1.Xsc_BA.K2YlYLF4opQLOraNkwriuXWP9Y0');
+client.login('Server_Token');
 
 
 // output no console sobre o status do bot
